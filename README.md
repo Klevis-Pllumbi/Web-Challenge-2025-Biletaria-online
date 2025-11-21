@@ -50,6 +50,11 @@ Here are a few screenshots from the platform:
 ### 🎫 Shows Page
 ![Shows-Section](https://github.com/user-attachments/assets/521710f3-2eaa-4073-9b30-44cb2860e3ee)
 
+### 🎫 Ticketing
+<img width="400" height="auto" alt="Screenshot 2025-11-21 102443" src="https://github.com/user-attachments/assets/7c3dab9d-db91-4355-a17b-afa469a9623f" />
+
+### ⭐ Review
+<img width="761" height="643" alt="Screenshot 2025-11-21 103244" src="https://github.com/user-attachments/assets/f1325829-1fe9-4be2-af6d-fb50c32d51dd" />
 
 ### 📊 Admin Dashboard
 ![Admin-Dashboard](https://github.com/user-attachments/assets/34c401d7-64dc-4598-af73-52767c85e2f8)
