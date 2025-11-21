@@ -84,19 +84,3 @@ This platform aims to modernize the connection between Metropol Theater and the 
 
 ---
 
-## 🔐 Login Credentials (Test Data)
-
-- **Admin**  
-  Email  
-  Password
-
-- **User**  
-  Email  
-  Password
-
-- **Ticket Office**  
-  Email  
-  Password
-
----
-
